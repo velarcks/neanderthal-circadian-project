@@ -1,0 +1,6 @@
+
+Regions: 62 
+Observed regions: 5 
+Expected regions: 4.0 
+OR: 1.25 
+P: 0.4 
